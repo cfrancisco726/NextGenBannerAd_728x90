@@ -6,10 +6,12 @@
   text-align: center;
   overflow: hidden;
   background-color: white;
+  border-style: solid;
+  border-color: #69b0bc;
 }
 
 .general-dentistry {
-  transition: transform 3500ms linear;
+  transition: transform 4000ms linear;
   position: relative;
   top: 0;
 }
@@ -20,7 +22,7 @@
 }
 
 .pediatric-dentistry {
-  transition: transform 3500ms linear;
+  transition: transform 4000ms linear;
   position: relative;
   top: 0;
 }
@@ -35,7 +37,7 @@
   transform: translateY(-300px);
 }
 .cleaning-whitening {
-  transition: transform 3500ms linear;
+  transition: transform 4000ms linear;
   position: relative;
   top: 0;
 }
@@ -45,7 +47,7 @@
   transform: translateY(-270px);
 }
 .row .last {
-  transition: transform 3500ms linear;
+  transition: transform 4000ms linear;
   position: relative;
   top: 0;
 }
@@ -69,7 +71,7 @@
 }
 
 .dentistry-ad .hero-img {
-  transition-delay: 3500ms;
+  transition-delay: 4000ms;
   transform: translateX(800px);
 }
 .view-services-btn {
