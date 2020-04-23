@@ -5,46 +5,47 @@
   position: relative;
   text-align: center;
   overflow: hidden;
+  background-color: white;
 }
 
 .general-dentistry {
-  transition: transform 3.5s linear;
+  transition: transform 3500ms linear;
   position: relative;
   top: 0;
 }
 
 .dentistry-ad .general-dentistry {
-  transition-delay: 0.5s;
+  transition-delay: 500ms;
   transform: translateY(-300px);
 }
 
 .pediatric-dentistry {
-  transition: transform 3.5s linear;
+  transition: transform 3500ms linear;
   position: relative;
   top: 0;
 }
 
 .dentistry-ad .pediatric-dentistry {
-  transition-delay: 0.5s;
+  transition-delay: 500ms;
   transform: translateY(-300px);
 }
 
 .dentistry-ad .cleaning-whitening {
-  transition-delay: 0.5s;
+  transition-delay: 500ms;
   transform: translateY(-300px);
 }
 .cleaning-whitening {
-  transition: transform 3.5s linear;
+  transition: transform 3500ms linear;
   position: relative;
   top: 0;
 }
 
 .dentistry-ad .row .last {
-  transition-delay: 0.5s;
+  transition-delay: 500ms;
   transform: translateY(-270px);
 }
 .row .last {
-  transition: transform 3.5s linear;
+  transition: transform 3500ms linear;
   position: relative;
   top: 0;
 }
@@ -62,23 +63,23 @@
 }
 
 .hero-img {
-  transition: transform 2.8s ease-in;
+  transition: transform 2300ms ease-in;
   position: absolute;
   left: -800px;
 }
 
 .dentistry-ad .hero-img {
-  transition-delay: 4.5s;
+  transition-delay: 3500ms;
   transform: translateX(800px);
 }
 .view-services-btn {
-  transition: transform 3s ease-in;
+  transition: transform 2200ms ease-in;
   position: absolute;
   margin-top: 30px;
   right: -240px;
 }
 
 .dentistry-ad .view-services-btn {
-  transition-delay: 5s;
+  transition-delay: 4800ms;
   transform: translateX(-300px);
 }
