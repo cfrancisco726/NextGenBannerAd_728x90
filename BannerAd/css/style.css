@@ -8,7 +8,7 @@
 }
 
 .general-dentistry {
-  transition: transform 4s linear;
+  transition: transform 3.5s linear;
   position: relative;
   top: 0;
 }
@@ -19,7 +19,7 @@
 }
 
 .pediatric-dentistry {
-  transition: transform 4s linear;
+  transition: transform 3.5s linear;
   position: relative;
   top: 0;
 }
@@ -34,7 +34,7 @@
   transform: translateY(-300px);
 }
 .cleaning-whitening {
-  transition: transform 4s linear;
+  transition: transform 3.5s linear;
   position: relative;
   top: 0;
 }
@@ -44,7 +44,7 @@
   transform: translateY(-270px);
 }
 .row .last {
-  transition: transform 4s linear;
+  transition: transform 3.5s linear;
   position: relative;
   top: 0;
 }
@@ -68,7 +68,7 @@
 }
 
 .dentistry-ad .hero-img {
-  transition-delay: 5s;
+  transition-delay: 4.5s;
   transform: translateX(800px);
 }
 .view-services-btn {
@@ -79,6 +79,6 @@
 }
 
 .dentistry-ad .view-services-btn {
-  transition-delay: 5.5s;
+  transition-delay: 5s;
   transform: translateX(-300px);
 }
