@@ -1,0 +1,84 @@
+.container {
+  height: 90px;
+  width: 728px;
+  background-color: #69b0bc;
+  position: relative;
+  text-align: center;
+  overflow: hidden;
+}
+
+.general-dentistry {
+  transition: transform 4s linear;
+  position: relative;
+  top: 0;
+}
+
+.dentistry-ad .general-dentistry {
+  transition-delay: 0.5s;
+  transform: translateY(-300px);
+}
+
+.pediatric-dentistry {
+  transition: transform 4s linear;
+  position: relative;
+  top: 0;
+}
+
+.dentistry-ad .pediatric-dentistry {
+  transition-delay: 0.5s;
+  transform: translateY(-300px);
+}
+
+.dentistry-ad .cleaning-whitening {
+  transition-delay: 0.5s;
+  transform: translateY(-300px);
+}
+.cleaning-whitening {
+  transition: transform 4s linear;
+  position: relative;
+  top: 0;
+}
+
+.dentistry-ad .row .last {
+  transition-delay: 0.5s;
+  transform: translateY(-270px);
+}
+.row .last {
+  transition: transform 4s linear;
+  position: relative;
+  top: 0;
+}
+
+.last::after {
+  clear: both;
+  display: inline-block;
+  white-space: nowrap;
+}
+
+.last .column {
+  margin: auto;
+  float: left;
+  padding: 0;
+}
+
+.hero-img {
+  transition: transform 2.8s ease-in;
+  position: absolute;
+  left: -800px;
+}
+
+.dentistry-ad .hero-img {
+  transition-delay: 5s;
+  transform: translateX(800px);
+}
+.view-services-btn {
+  transition: transform 3s ease-in;
+  position: absolute;
+  margin-top: 30px;
+  right: -240px;
+}
+
+.dentistry-ad .view-services-btn {
+  transition-delay: 5.5s;
+  transform: translateX(-300px);
+}
