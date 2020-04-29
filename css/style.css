@@ -11,43 +11,53 @@
 }
 
 .general-dentistry {
-  transition: transform 4000ms linear;
+  transition: transform 5200ms linear;
   position: relative;
   top: 0;
 }
 
 .dentistry-ad .general-dentistry {
   transition-delay: 500ms;
-  transform: translateY(-300px);
+  transform: translateY(-500px);
 }
 
 .pediatric-dentistry {
-  transition: transform 4000ms linear;
+  transition: transform 5200ms linear;
   position: relative;
   top: 0;
 }
 
 .dentistry-ad .pediatric-dentistry {
   transition-delay: 500ms;
-  transform: translateY(-300px);
+  transform: translateY(-500px);
 }
 
 .dentistry-ad .cleaning-whitening {
   transition-delay: 500ms;
-  transform: translateY(-300px);
+  transform: translateY(-500px);
 }
 .cleaning-whitening {
-  transition: transform 4000ms linear;
+  transition: transform 5200ms linear;
+  position: relative;
+  top: 0;
+}
+
+.dentistry-ad .periodontics {
+  transition-delay: 500ms;
+  transform: translateY(-500px);
+}
+.periodontics {
+  transition: transform 5200ms linear;
   position: relative;
   top: 0;
 }
 
 .dentistry-ad .row .last {
   transition-delay: 500ms;
-  transform: translateY(-270px);
+  transform: translateY(-376px);
 }
 .row .last {
-  transition: transform 4000ms linear;
+  transition: transform 5200ms linear;
   position: relative;
   top: 0;
 }
@@ -71,7 +81,7 @@
 }
 
 .dentistry-ad .hero-img {
-  transition-delay: 4000ms;
+  transition-delay: 4400ms;
   transform: translateX(800px);
 }
 .view-services-btn {
