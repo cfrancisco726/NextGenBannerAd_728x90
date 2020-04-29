@@ -1,3 +1,5 @@
-# NextGenBannerAd_728x90
-Banner ad for Next Gen Smile Care 728x90
+Banner ad for Next Gen Smile Care dental practice
+
+demo: https://nextgensmileemail.herokuapp.com/
+
 http://www.nextgensmilecare.com/
